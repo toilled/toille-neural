@@ -1,0 +1,9 @@
+{
+  "kind": "health",
+  "runtime_coverage_findings": [],
+  "target_keys": [
+    "src/lib/hardware.ts:dead code",
+    "src/lib/solar.ts:dead code",
+    "src/lib/battery.ts:dead code"
+  ]
+}
